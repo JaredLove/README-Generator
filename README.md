@@ -1,49 +1,47 @@
   
     
-    ## adas
+    # README GENERATOR
     
     
-    ## Name
+    # Name
     
-    asd
-    
-    
-    
-    ## Github
-    
-    ad
+    Jared
     
     
     
-    ## Description
+    # Github
     
-    d
+    https://github.com/JaredLove/
     
-    ## Video
     
-    [Untitled_ Sep 14, 2022 9_19 PM.webm](https://user-images.githubusercontent.com/106944900/190298317-b55f0442-3ece-43d9-89ad-876c2cd3413a.webm)
-
     
-    ## Table of Contents
+    # Description
+    
+    Generate a README file
+    
+    # Sample
+    
+    
+    # Table of Contents
      
     
-    ## License
+    # License
     
-    as
-    
-    
-    ## Usage
-    
-    d
+    MIT
     
     
-    ## Credits
+    # Usage
     
-    dasd
-    
-    
-    
-    ## How to Contribute
+    Making a README file just became a whole lost faster
     
     
+    # Credits
+    
+    None
+    
+    
+    
+    # How to Contribute
+    
+    None
     
