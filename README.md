@@ -1,23 +1,23 @@
   
     
-    ## README GENERATOR
+    ## adas
     
     
     ## Name
     
-    Jared
+    asd
     
     
     
     ## Github
     
-    https://github.com/JaredLove/
+    ad
     
     
     
     ## Description
     
-    Make a README file for your project
+    d
     
     
     
@@ -27,21 +27,21 @@
     
     ## License
     
-    MIT
+    as
     
     
     ## Usage
     
-    To make making a README file alot simpler
+    d
     
     
     ## Credits
     
-    None
+    dasd
     
     
     
     ## How to Contribute
     
-    None
+    
     

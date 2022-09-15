@@ -5,48 +5,48 @@ function generateMarkdown(input) {
     let markDown = 
     `  
     
-    ## ${input.ptitle}
+    # ${input.ptitle}
     
     
-    ## Name
+    # Name
     
     ${input.name}
     
     
     
-    ## Github
+    # Github
     
     ${input.github}
     
     
     
-    ## Description
+    # Description
     
     ${input.description}
     
     
     
     
-    ## Table of Contents
+    # Table of Contents
      
     
-    ## License
+    # License
     
     ${input.license}
     
     
-    ## Usage
+    # Usage
     
     ${input.usage}
     
     
-    ## Credits
+    # Credits
     
     ${input.credits}
     
     
     
-    ## How to Contribute
+    # How to Contribute
     
     ${input.contribute}
     `
