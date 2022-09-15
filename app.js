@@ -149,7 +149,7 @@ function writeToFile(fileName, data) {
 }
 
 
-const writeFileAsync = util.promisify(writeToFile);
+const writeFile = (writeToFile);
 
 
     
@@ -162,7 +162,7 @@ async function initialize() {
   const markDown = generateMarkdown(input);
   console.log(markDown);
 
-  await writeFileAsync('README.md', markDown);
+  await writeFile('README.md', markDown);
   }catch (error) {
     console.log(error);
   }

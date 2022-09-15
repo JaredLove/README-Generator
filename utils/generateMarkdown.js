@@ -1,4 +1,5 @@
 
+//Function for the layout of the markdown
 function generateMarkdown(input) {
 
     let markDown = 
@@ -47,7 +48,7 @@ function generateMarkdown(input) {
     
     ## How to Contribute
     
-    ${contribute}
+    ${input.contribute}
     `
     return markDown;
     }
