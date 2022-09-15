@@ -1,9 +1,7 @@
-  
-    
-    # README GENERATOR
+# README GENERATOR
     
     
-    # Name
+# Name
     
     Jared
     
