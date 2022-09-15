@@ -7,39 +7,39 @@
     
     
     
-    # Github
+# Github
     
     https://github.com/JaredLove/
     
     
     
-    # Description
+# Description
     
     Generate a README file
     
-    # Sample
+# Sample
     
     
-    # Table of Contents
+# Table of Contents
      
     
-    # License
+# License
     
     MIT
     
     
-    # Usage
+# Usage
     
     Making a README file just became a whole lost faster
     
     
-    # Credits
+# Credits
     
     None
     
     
     
-    # How to Contribute
+# How to Contribute
     
     None
     
