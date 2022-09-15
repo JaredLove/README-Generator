@@ -1,0 +1,14 @@
+{
+  "name": "readme",
+  "version": "1.0.0",
+  "description": "readme generator",
+  "main": "app.js",
+  "scripts": {
+    "test": "node app.js"
+  },
+  "author": "Jared Love",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^8.2.4"
+  }
+}
